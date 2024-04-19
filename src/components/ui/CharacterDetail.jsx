@@ -45,7 +45,7 @@ function CharacterDetail() {
 								Assign Location
 							</button>
 						</form>
-						<Link to="/character" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded block text-center mt-4 w-full md:w-auto">
+						<Link to="/" className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded block text-center mt-4 w-full md:w-auto">
 							Back to List
 						</Link>
 					</div>
